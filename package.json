@@ -1,0 +1,19 @@
+{
+  "name": "prisma-to-drizzle-schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx ts-node ./src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  }
+}
